@@ -17,7 +17,6 @@ namespace happy_ticket
                 kol++;
             }
             return kol;
-
         }
         static int Symma1(int kol, int ch)
         {
